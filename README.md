@@ -8,9 +8,9 @@ Final Project for Interactive Graphics course 2018-2019, Università La Sapienza
 Click here for the DEMO VERSION: https://sapienzainteractivegraphicscourse.github.io/finalproject-dragonsnake21
 
 ## Team
-* Michele Ciciolla <a href="https://github.com/micheleciciolla"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="20"></a>
-
 * Flavio Lorenzi <a href="https://github.com/FlavioLorenzi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="20"></a>
+
+* Michele Ciciolla <a href="https://github.com/micheleciciolla"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="20"></a>
 
 * Matteo Ginesi <a href="https://github.com/matginesi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="20"></a>
 
