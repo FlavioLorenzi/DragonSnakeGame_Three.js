@@ -5,7 +5,9 @@ Final Project for Interactive Graphics course 2018-2019, Università La Sapienza
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="400"></a>
 
 ## Demo
-Click here for the DEMO VERSION: https://sapienzainteractivegraphicscourse.github.io/finalproject-dragonsnake21
+Click here to free play (DEMO VERSION): https://sapienzainteractivegraphicscourse.github.io/finalproject-dragonsnake21
+
+Three different songs available in the game!!!
 
 ## Team
 * Flavio Lorenzi <a href="https://github.com/FlavioLorenzi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="20"></a>
@@ -19,6 +21,16 @@ Click here for the DEMO VERSION: https://sapienzainteractivegraphicscourse.githu
 ## Documentation
 You can read our technical documentation about this project here PDF [DOCUMENTATION](./documentation/report.pdf)
 
+## Other
+Introduction
+![](other/intro.png)
+
+The Red Planet
+![](other/env1.png)
+![](other/env1a.png)
+
+The Dark World
+![](other/env3.png)
 
 ## License
 This project is under MIT license - [LICENSE](./LICENSE)
