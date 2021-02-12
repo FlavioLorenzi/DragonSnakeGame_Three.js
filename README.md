@@ -1,6 +1,9 @@
 # Dragonsnake21
 
-Final Project for Interactive Graphics course 2018-2019, Università La Sapienza Roma
+Final Project for Interactive Graphics course 2018-2019, Università La Sapienza Roma.
+
+
+It is a reinterpretation of the classic Snake game, where here we have a dragon, in three different versions depending on the chosen world, which has to eat chicks or sheep to win: the higher the score, the more the speed / difficulty increases.
 
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="400"></a>
 
